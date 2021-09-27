@@ -1,0 +1,13 @@
+html{
+    scroll-behavior: smooth;
+}
+.container-2{
+    width: 75%;
+}
+.flex-box-container-2{
+    display: flex !important;
+    
+}
+.flex-cat-gen img{
+    margin: 10px !important;
+}
